@@ -4,6 +4,7 @@ import (
 	"encoding/xml"
 	"fmt"
 	"net/http"
+	"sync"
 	"time"
 )
 
@@ -42,27 +43,49 @@ type RssItem struct {
 	Description string     `xml:"description"`
 }
 
+func (r RssItem) String() string {
+	return fmt.Sprintf("Title: %s\nLink: %s\nGUID: %s\nPublishData: %s\nDescription: %s\n", r.Title, r.Link, r.GUID, r.PublishDate, r.Description)
+}
+
 func Parse(urls []string) ([]RssItem, error) {
 	var items []RssItem
-	for _, url := range urls {
-		output, err := parseUrl(url)
-		if err != nil {
-			fmt.Printf("ERROR while parsing url %s\n", url)
-			return items, err
-		}
-		items = append(items, output...)
+	var chans []chan RssItem
+	var wg sync.WaitGroup
+	wg.Add(len(urls))
+	for i := 0; i < len(urls); i++ {
+		chans = append(chans, make(chan RssItem))
+	}
+
+	for i, url := range urls {
+		go parseUrl(url, chans[i], &wg)
+	}
+	agg := make(chan RssItem)
+	for _, ch := range chans {
+		go func(c chan RssItem) {
+			for msg := range c {
+				agg <- msg
+			}
+			wg.Done()
+		}(ch)
+	}
+	go func() {
+		wg.Wait()
+		close(agg)
+	}()
+
+	for item := range agg {
+		items = append(items, item)
 	}
 
 	return items, nil
 }
 
-func parseUrl(url string) ([]RssItem, error) {
-	var items []RssItem
+func parseUrl(url string, ch chan<- RssItem, wg *sync.WaitGroup) {
+	defer close(ch)
 
 	resp, err := http.Get(url)
 	if err != nil {
 		fmt.Printf("ERROR GET url %s\n", url)
-		return items, err
 	}
 	defer resp.Body.Close()
 
@@ -72,12 +95,9 @@ func parseUrl(url string) ([]RssItem, error) {
 	err = decoder.Decode(&rss)
 	if err != nil {
 		fmt.Printf("ERROR Decode: %v\n", err)
-		return items, err
 	}
 
 	for _, item := range rss.Channel.Items {
-		items = append(items, item)
+		ch <- item
 	}
-
-	return items, nil
 }
