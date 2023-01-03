@@ -41,6 +41,7 @@ type RssItem struct {
 	GUID        string     `xml:"guid"`
 	PublishDate customTime `xml:"pubDate"`
 	Description string     `xml:"description"`
+	Feed        string
 }
 
 func (r RssItem) String() string {
@@ -97,6 +98,7 @@ func parseUrl(url string, ch chan<- RssItem, wg *sync.WaitGroup) {
 	}
 
 	for _, item := range rss.Channel.Items {
+		item.Feed = url
 		ch <- item
 	}
 }
