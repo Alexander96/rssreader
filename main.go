@@ -89,10 +89,9 @@ func parseUrl(url string, ch chan<- RssItem, wg *sync.WaitGroup) {
 	}
 	defer resp.Body.Close()
 
-	rss := rss{}
-
 	decoder := xml.NewDecoder(resp.Body)
-	err = decoder.Decode(&rss)
+
+	rss, err := ParseData(decoder)
 	if err != nil {
 		fmt.Printf("ERROR Decode: %v\n", err)
 	}
@@ -100,4 +99,10 @@ func parseUrl(url string, ch chan<- RssItem, wg *sync.WaitGroup) {
 	for _, item := range rss.Channel.Items {
 		ch <- item
 	}
+}
+
+func ParseData(decoder *xml.Decoder) (rss, error) {
+	rss := rss{}
+	err := decoder.Decode(&rss)
+	return rss, err
 }

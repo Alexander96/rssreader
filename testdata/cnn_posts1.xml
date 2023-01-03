@@ -1,0 +1,1175 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>
+<![CDATA[ CNN.com - RSS Channel ]]>
+</title>
+<description>
+<![CDATA[ CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more. ]]>
+</description>
+<link>http://www.cnn.com</link>
+<image>
+<url>http://i2.cdn.turner.com/cnn/2015/images/09/24/cnn.digital.png</url>
+<title>CNN.com - RSS Channel</title>
+<link>http://www.cnn.com</link>
+</image>
+<generator>coredev-bumblebee</generator>
+<lastBuildDate>Tue, 03 Jan 2023 17:26:18 GMT</lastBuildDate>
+<pubDate>Tue, 03 Jan 2023 17:26:18 GMT</pubDate>
+<copyright>
+<![CDATA[ Copyright (c) 2023 Turner Broadcasting System, Inc. All Rights Reserved. ]]>
+</copyright>
+<language>
+<![CDATA[ en-US ]]>
+</language>
+<ttl>10</ttl>
+<item>
+<title>
+<![CDATA[ United said it had this woman's missing bag. She tracked it to a residential address ]]>
+</title>
+<description>
+<![CDATA[ When Valerie Szybala's bag never arrived with her United Airlines flight, the airline told her it had it safe and ready for delivery. But her Airtag said otherwise -- and she tracked it to a residential address in Virginia. ]]>
+</description>
+<link>https://www.cnn.com/travel/article/airtag-lost-bag-valerie-szybala-united/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/travel/article/airtag-lost-bag-valerie-szybala-united/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 17:25:23 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103102803-airtag-lost-bag-valerie-szybala-super-169.jpeg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103102803-airtag-lost-bag-valerie-szybala-large-11.jpeg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103102803-airtag-lost-bag-valerie-szybala-vertical-large-gallery.jpeg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103102803-airtag-lost-bag-valerie-szybala-video-synd-2.jpeg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103102803-airtag-lost-bag-valerie-szybala-live-video.jpeg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103102803-airtag-lost-bag-valerie-szybala-t1-main.jpeg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103102803-airtag-lost-bag-valerie-szybala-vertical-gallery.jpeg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103102803-airtag-lost-bag-valerie-szybala-story-body.jpeg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103102803-airtag-lost-bag-valerie-szybala-t1-main.jpeg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103102803-airtag-lost-bag-valerie-szybala-assign.jpeg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103102803-airtag-lost-bag-valerie-szybala-hp-video.jpeg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103102803-airtag-lost-bag-valerie-szybala-super-169.jpeg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103102803-airtag-lost-bag-valerie-szybala-large-11.jpeg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103102803-airtag-lost-bag-valerie-szybala-vertical-large-gallery.jpeg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103102803-airtag-lost-bag-valerie-szybala-video-synd-2.jpeg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103102803-airtag-lost-bag-valerie-szybala-live-video.jpeg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103102803-airtag-lost-bag-valerie-szybala-t1-main.jpeg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103102803-airtag-lost-bag-valerie-szybala-vertical-gallery.jpeg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103102803-airtag-lost-bag-valerie-szybala-story-body.jpeg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103102803-airtag-lost-bag-valerie-szybala-t1-main.jpeg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103102803-airtag-lost-bag-valerie-szybala-assign.jpeg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103102803-airtag-lost-bag-valerie-szybala-hp-video.jpeg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ Teenage pilot makes emergency landing near two-lane highway in California ]]>
+</title>
+<description>
+<![CDATA[ A teenage pilot flying a single-engine plane with several family members on board made an emergency landing near a two-lane highway in the San Bernardino National Forest in California on Monday. ]]>
+</description>
+<link>https://www.cnn.com/travel/article/teen-pilot-emergency-landing-california/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/travel/article/teen-pilot-emergency-landing-california/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 17:21:22 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111403-03-teen-pilot-brock-peters-emergency-landing-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111403-03-teen-pilot-brock-peters-emergency-landing-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111403-03-teen-pilot-brock-peters-emergency-landing-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111403-03-teen-pilot-brock-peters-emergency-landing-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111403-03-teen-pilot-brock-peters-emergency-landing-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111403-03-teen-pilot-brock-peters-emergency-landing-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111403-03-teen-pilot-brock-peters-emergency-landing-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111403-03-teen-pilot-brock-peters-emergency-landing-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111403-03-teen-pilot-brock-peters-emergency-landing-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111403-03-teen-pilot-brock-peters-emergency-landing-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111403-03-teen-pilot-brock-peters-emergency-landing-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111403-03-teen-pilot-brock-peters-emergency-landing-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111403-03-teen-pilot-brock-peters-emergency-landing-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111403-03-teen-pilot-brock-peters-emergency-landing-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111403-03-teen-pilot-brock-peters-emergency-landing-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111403-03-teen-pilot-brock-peters-emergency-landing-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111403-03-teen-pilot-brock-peters-emergency-landing-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111403-03-teen-pilot-brock-peters-emergency-landing-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111403-03-teen-pilot-brock-peters-emergency-landing-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111403-03-teen-pilot-brock-peters-emergency-landing-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111403-03-teen-pilot-brock-peters-emergency-landing-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111403-03-teen-pilot-brock-peters-emergency-landing-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111358-02-teen-pilot-brock-peters-emergency-landing-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111358-02-teen-pilot-brock-peters-emergency-landing-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111358-02-teen-pilot-brock-peters-emergency-landing-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111358-02-teen-pilot-brock-peters-emergency-landing-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111358-02-teen-pilot-brock-peters-emergency-landing-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111358-02-teen-pilot-brock-peters-emergency-landing-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111358-02-teen-pilot-brock-peters-emergency-landing-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111358-02-teen-pilot-brock-peters-emergency-landing-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111358-02-teen-pilot-brock-peters-emergency-landing-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111358-02-teen-pilot-brock-peters-emergency-landing-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111358-02-teen-pilot-brock-peters-emergency-landing-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ Israel's far-right Ben Gvir visits flashpoint Jerusalem holy site as Palestinians slam 'provocation' ]]>
+</title>
+<description>
+<![CDATA[ Israeli far right national security minister Itamar Ben Gvir visited the compound of Jerusalem's Al Aqsa mosque, known as Temple mount in Judaism, on Tuesday in a move that drew Palestinian condemnation and stood against Israeli warnings. ]]>
+</description>
+<link>https://www.cnn.com/2023/01/03/middleeast/israel-palestinians-jerusalem-ben-gvir-intl/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/2023/01/03/middleeast/israel-palestinians-jerusalem-ben-gvir-intl/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 17:19:47 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090314-01-ben-gvir-temple-mount-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090314-01-ben-gvir-temple-mount-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090314-01-ben-gvir-temple-mount-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090314-01-ben-gvir-temple-mount-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090314-01-ben-gvir-temple-mount-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090314-01-ben-gvir-temple-mount-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090314-01-ben-gvir-temple-mount-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090314-01-ben-gvir-temple-mount-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090314-01-ben-gvir-temple-mount-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090314-01-ben-gvir-temple-mount-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090314-01-ben-gvir-temple-mount-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090314-01-ben-gvir-temple-mount-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090314-01-ben-gvir-temple-mount-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090314-01-ben-gvir-temple-mount-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090314-01-ben-gvir-temple-mount-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090314-01-ben-gvir-temple-mount-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090314-01-ben-gvir-temple-mount-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090314-01-ben-gvir-temple-mount-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090314-01-ben-gvir-temple-mount-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090314-01-ben-gvir-temple-mount-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090314-01-ben-gvir-temple-mount-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090314-01-ben-gvir-temple-mount-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ Tesla's shares plunge further on weaker than expected sales ]]>
+</title>
+<description>
+<![CDATA[ Tesla shares plunged more about 13% in early trading Tuesday, as weaker than expected global sales caused the company's massive slide in its share price that began last year to continue. ]]>
+</description>
+<link>https://www.cnn.com/2023/01/03/investing/tesla-shares-weak-sales/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/2023/01/03/investing/tesla-shares-weak-sales/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 17:18:33 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103151211-tesla-stock-plunge-file-032921-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103151211-tesla-stock-plunge-file-032921-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103151211-tesla-stock-plunge-file-032921-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103151211-tesla-stock-plunge-file-032921-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103151211-tesla-stock-plunge-file-032921-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103151211-tesla-stock-plunge-file-032921-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103151211-tesla-stock-plunge-file-032921-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103151211-tesla-stock-plunge-file-032921-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103151211-tesla-stock-plunge-file-032921-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103151211-tesla-stock-plunge-file-032921-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103151211-tesla-stock-plunge-file-032921-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ Global markets struggle to put last year's misery behind them ]]>
+</title>
+<description>
+<![CDATA[ European and Asian stocks pushed higher on the first major trading day of 2023 as investors try to look beyond a gloomy outlook for the world economy, China's worst Covid outbreak and stubbornly high inflation in Europe. ]]>
+</description>
+<link>https://www.cnn.com/2023/01/03/investing/global-markets-new-year-stocks-rise/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/2023/01/03/investing/global-markets-new-year-stocks-rise/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 17:18:20 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102123014-01-global-stocks-010223-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102123014-01-global-stocks-010223-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102123014-01-global-stocks-010223-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102123014-01-global-stocks-010223-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102123014-01-global-stocks-010223-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102123014-01-global-stocks-010223-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102123014-01-global-stocks-010223-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102123014-01-global-stocks-010223-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102123014-01-global-stocks-010223-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102123014-01-global-stocks-010223-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102123014-01-global-stocks-010223-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ This tech company is clearing out recurring meetings from employee calendars ]]>
+</title>
+<description>
+<![CDATA[ One tech company is trying to help its employees kick off the new year with a clean slate, or at least an emptier calendar. ]]>
+</description>
+<link>https://www.cnn.com/2023/01/03/tech/shopify-meetings/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/2023/01/03/tech/shopify-meetings/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 17:14:08 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103085811-01-shopify-hq-file-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103085811-01-shopify-hq-file-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103085811-01-shopify-hq-file-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103085811-01-shopify-hq-file-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103085811-01-shopify-hq-file-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103085811-01-shopify-hq-file-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103085811-01-shopify-hq-file-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103085811-01-shopify-hq-file-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103085811-01-shopify-hq-file-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103085811-01-shopify-hq-file-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103085811-01-shopify-hq-file-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ The latest on the new Congress and House speaker vote ]]>
+</title>
+<description>
+<![CDATA[ The newly elected 118th Congress will officially be sworn in on Jan. 3 and the House speaker election will be held. Follow here for the latest live news updates from Capitol Hill. ]]>
+</description>
+<link>https://www.cnn.com/politics/live-news/new-congress-sworn-in-2023/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/politics/live-news/new-congress-sworn-in-2023/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 17:13:18 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102151646-02-us-capitol-file-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102151646-02-us-capitol-file-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102151646-02-us-capitol-file-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102151646-02-us-capitol-file-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102151646-02-us-capitol-file-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102151646-02-us-capitol-file-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102151646-02-us-capitol-file-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102151646-02-us-capitol-file-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102151646-02-us-capitol-file-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102151646-02-us-capitol-file-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102151646-02-us-capitol-file-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ Russia's war in Ukraine ]]>
+</title>
+<description>
+<![CDATA[ Ukrainian President Volodymyr Zelensky said Russia is planning a prolonged campaign of attacks with Iranian-made Shahed drones to exhaust Ukraine. Follow for live news updates. ]]>
+</description>
+<link>https://www.cnn.com/europe/live-news/russia-ukraine-war-news-1-3-23/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/europe/live-news/russia-ukraine-war-news-1-3-23/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 17:12:45 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230101002059-03-kyiv-shelling-221231-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230101002059-03-kyiv-shelling-221231-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230101002059-03-kyiv-shelling-221231-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230101002059-03-kyiv-shelling-221231-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230101002059-03-kyiv-shelling-221231-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230101002059-03-kyiv-shelling-221231-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230101002059-03-kyiv-shelling-221231-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230101002059-03-kyiv-shelling-221231-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230101002059-03-kyiv-shelling-221231-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230101002059-03-kyiv-shelling-221231-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230101002059-03-kyiv-shelling-221231-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ Florida Gov. DeSantis begins second term with spotlight on presidential ambitions ]]>
+</title>
+<description>
+<![CDATA[ Florida Gov. Ron DeSantis swore an oath to a second term in office on Tuesday, trumpeting his accomplishments of the last four years that he said have made the state "a promised land of sanity," as he pledged to make Florida a beacon for freedom across the nation. ]]>
+</description>
+<link>https://www.cnn.com/2023/01/03/politics/ron-desantis-inauguration/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/2023/01/03/politics/ron-desantis-inauguration/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 17:11:13 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221122081114-desantis-111922-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221122081114-desantis-111922-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221122081114-desantis-111922-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221122081114-desantis-111922-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221122081114-desantis-111922-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221122081114-desantis-111922-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221122081114-desantis-111922-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221122081114-desantis-111922-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221122081114-desantis-111922-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221122081114-desantis-111922-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221122081114-desantis-111922-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221122081114-desantis-111922-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221122081114-desantis-111922-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221122081114-desantis-111922-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221122081114-desantis-111922-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221122081114-desantis-111922-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221122081114-desantis-111922-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221122081114-desantis-111922-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221122081114-desantis-111922-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221122081114-desantis-111922-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221122081114-desantis-111922-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221122081114-desantis-111922-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ Missouri is scheduled to carry out first US execution of an openly transgender person today ]]>
+</title>
+<description>
+<![CDATA[ Missouri on Tuesday is scheduled to execute Amber McLaughlin, a transgender woman convicted of a 2003 murder, who unsuccessfully sought clemency from the governor in part because the jury at her trial did not vote for a death sentence. ]]>
+</description>
+<link>https://www.cnn.com/2023/01/03/us/amber-mclaughlin-missouri-execution/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/2023/01/03/us/amber-mclaughlin-missouri-execution/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 17:10:30 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103092347-amber-mclaughlin-mug-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103092347-amber-mclaughlin-mug-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103092347-amber-mclaughlin-mug-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103092347-amber-mclaughlin-mug-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103092347-amber-mclaughlin-mug-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103092347-amber-mclaughlin-mug-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103092347-amber-mclaughlin-mug-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103092347-amber-mclaughlin-mug-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103092347-amber-mclaughlin-mug-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103092347-amber-mclaughlin-mug-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103092347-amber-mclaughlin-mug-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103092347-amber-mclaughlin-mug-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103092347-amber-mclaughlin-mug-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103092347-amber-mclaughlin-mug-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103092347-amber-mclaughlin-mug-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103092347-amber-mclaughlin-mug-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103092347-amber-mclaughlin-mug-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103092347-amber-mclaughlin-mug-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103092347-amber-mclaughlin-mug-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103092347-amber-mclaughlin-mug-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103092347-amber-mclaughlin-mug-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103092347-amber-mclaughlin-mug-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ 'The View' pays tribute to Barbara Walters ]]>
+</title>
+<description>
+<![CDATA[ "The View" returned from its holiday hiatus to pay tribute to its creator, Barbara Walters, who died last week at 93 years old. ]]>
+</description>
+<link>https://www.cnn.com/2023/01/03/media/barbara-walters-the-view-tribute/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/2023/01/03/media/barbara-walters-the-view-tribute/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 17:10:12 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103082418-the-view-barbara-walters-tribute-file-restricted-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103082418-the-view-barbara-walters-tribute-file-restricted-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103082418-the-view-barbara-walters-tribute-file-restricted-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103082418-the-view-barbara-walters-tribute-file-restricted-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103082418-the-view-barbara-walters-tribute-file-restricted-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103082418-the-view-barbara-walters-tribute-file-restricted-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103082418-the-view-barbara-walters-tribute-file-restricted-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103082418-the-view-barbara-walters-tribute-file-restricted-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103082418-the-view-barbara-walters-tribute-file-restricted-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103082418-the-view-barbara-walters-tribute-file-restricted-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103082418-the-view-barbara-walters-tribute-file-restricted-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ Bills player Damar Hamlin is in critical condition after collapsing from a cardiac arrest on the field, team says ]]>
+</title>
+<description>
+<![CDATA[ Buffalo Bills safety Damar Hamlin collapsed on the field Monday night after making a tackle in the first quarter of the Bills game against the Cincinnati Bengals. ]]>
+</description>
+<link>https://www.cnn.com/2023/01/02/football/damar-hamlin-buffalo-bills-collapse/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/2023/01/02/football/damar-hamlin-buffalo-bills-collapse/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 17:08:15 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102183356-bills-bengals-ambulance-on-field-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102183356-bills-bengals-ambulance-on-field-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102183356-bills-bengals-ambulance-on-field-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102183356-bills-bengals-ambulance-on-field-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102183356-bills-bengals-ambulance-on-field-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102183356-bills-bengals-ambulance-on-field-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102183356-bills-bengals-ambulance-on-field-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102183356-bills-bengals-ambulance-on-field-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102183356-bills-bengals-ambulance-on-field-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102183356-bills-bengals-ambulance-on-field-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102183356-bills-bengals-ambulance-on-field-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102185244-damar-hamlin-on-field-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102185244-damar-hamlin-on-field-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102185244-damar-hamlin-on-field-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102185244-damar-hamlin-on-field-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102185244-damar-hamlin-on-field-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102185244-damar-hamlin-on-field-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102185244-damar-hamlin-on-field-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102185244-damar-hamlin-on-field-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102185244-damar-hamlin-on-field-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102185244-damar-hamlin-on-field-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102185244-damar-hamlin-on-field-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103131329-damar-hamlin-file-091922-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103131329-damar-hamlin-file-091922-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103131329-damar-hamlin-file-091922-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103131329-damar-hamlin-file-091922-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103131329-damar-hamlin-file-091922-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103131329-damar-hamlin-file-091922-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103131329-damar-hamlin-file-091922-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103131329-damar-hamlin-file-091922-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103131329-damar-hamlin-file-091922-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103131329-damar-hamlin-file-091922-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103131329-damar-hamlin-file-091922-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103125411-03-damar-hamlin-on-field-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103125411-03-damar-hamlin-on-field-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103125411-03-damar-hamlin-on-field-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103125411-03-damar-hamlin-on-field-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103125411-03-damar-hamlin-on-field-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103125411-03-damar-hamlin-on-field-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103125411-03-damar-hamlin-on-field-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103125411-03-damar-hamlin-on-field-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103125411-03-damar-hamlin-on-field-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103125411-03-damar-hamlin-on-field-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103125411-03-damar-hamlin-on-field-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102183132-02-bills-players-react-0102-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102183132-02-bills-players-react-0102-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102183132-02-bills-players-react-0102-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102183132-02-bills-players-react-0102-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102183132-02-bills-players-react-0102-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102183132-02-bills-players-react-0102-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102183132-02-bills-players-react-0102-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102183132-02-bills-players-react-0102-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102183132-02-bills-players-react-0102-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102183132-02-bills-players-react-0102-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102183132-02-bills-players-react-0102-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ Major storm leaves trail of destruction as it barrels across Central US with powerful tornadoes, flooding and heavy snow ]]>
+</title>
+<description>
+<![CDATA[ A major multi-hazard storm barreling across the country continues to bring the risk of strong tornadoes and flooding to the South, and ice and snow to the Plains and Upper Midwest on Tuesday. ]]>
+</description>
+<link>https://www.cnn.com/2023/01/03/weather/severe-storm-tornado-threat-south-tuesday/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/2023/01/03/weather/severe-storm-tornado-threat-south-tuesday/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 16:53:17 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113310-02-severe-weather-0102-arkansas-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113310-02-severe-weather-0102-arkansas-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113310-02-severe-weather-0102-arkansas-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113310-02-severe-weather-0102-arkansas-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113310-02-severe-weather-0102-arkansas-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113310-02-severe-weather-0102-arkansas-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113310-02-severe-weather-0102-arkansas-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113310-02-severe-weather-0102-arkansas-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113310-02-severe-weather-0102-arkansas-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113310-02-severe-weather-0102-arkansas-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113310-02-severe-weather-0102-arkansas-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103133148-01-weather-snow-us-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103133148-01-weather-snow-us-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103133148-01-weather-snow-us-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103133148-01-weather-snow-us-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103133148-01-weather-snow-us-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103133148-01-weather-snow-us-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103133148-01-weather-snow-us-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103133148-01-weather-snow-us-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103133148-01-weather-snow-us-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103133148-01-weather-snow-us-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103133148-01-weather-snow-us-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113310-02-severe-weather-0102-arkansas-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113310-02-severe-weather-0102-arkansas-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113310-02-severe-weather-0102-arkansas-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113310-02-severe-weather-0102-arkansas-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113310-02-severe-weather-0102-arkansas-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113310-02-severe-weather-0102-arkansas-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113310-02-severe-weather-0102-arkansas-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113310-02-severe-weather-0102-arkansas-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113310-02-severe-weather-0102-arkansas-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113310-02-severe-weather-0102-arkansas-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113310-02-severe-weather-0102-arkansas-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103112106-01-severe-weather-0102-arkansas-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103112106-01-severe-weather-0102-arkansas-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103112106-01-severe-weather-0102-arkansas-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103112106-01-severe-weather-0102-arkansas-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103112106-01-severe-weather-0102-arkansas-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103112106-01-severe-weather-0102-arkansas-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103112106-01-severe-weather-0102-arkansas-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103112106-01-severe-weather-0102-arkansas-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103112106-01-severe-weather-0102-arkansas-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103112106-01-severe-weather-0102-arkansas-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103112106-01-severe-weather-0102-arkansas-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ Buffalo Bills safety Damar Hamlin was cherishing every moment in the NFL before his collapse ]]>
+</title>
+<description>
+<![CDATA[ The current NFL season had seen Buffalo Bills player Damar Hamlin establish him in the team before he suffered a cardiac arrest and collapsed during the Bills' game against the Cincinnati Bengals on Monday. ]]>
+</description>
+<link>https://www.cnn.com/2023/01/03/sport/damar-hamlin-profile-buffalo-bills-spt-intl/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/2023/01/03/sport/damar-hamlin-profile-buffalo-bills-spt-intl/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 16:51:30 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090653-01-damar-hamlin-file-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090653-01-damar-hamlin-file-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090653-01-damar-hamlin-file-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090653-01-damar-hamlin-file-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090653-01-damar-hamlin-file-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090653-01-damar-hamlin-file-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090653-01-damar-hamlin-file-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090653-01-damar-hamlin-file-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090653-01-damar-hamlin-file-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090653-01-damar-hamlin-file-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090653-01-damar-hamlin-file-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090830-02-damar-hamlin-file-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090830-02-damar-hamlin-file-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090830-02-damar-hamlin-file-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090830-02-damar-hamlin-file-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090830-02-damar-hamlin-file-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090830-02-damar-hamlin-file-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090830-02-damar-hamlin-file-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090830-02-damar-hamlin-file-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090830-02-damar-hamlin-file-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090830-02-damar-hamlin-file-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090830-02-damar-hamlin-file-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102184728-hamlin-tackels-higgins-0102-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102184728-hamlin-tackels-higgins-0102-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102184728-hamlin-tackels-higgins-0102-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102184728-hamlin-tackels-higgins-0102-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102184728-hamlin-tackels-higgins-0102-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102184728-hamlin-tackels-higgins-0102-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102184728-hamlin-tackels-higgins-0102-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102184728-hamlin-tackels-higgins-0102-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102184728-hamlin-tackels-higgins-0102-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102184728-hamlin-tackels-higgins-0102-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102184728-hamlin-tackels-higgins-0102-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090653-01-damar-hamlin-file-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090653-01-damar-hamlin-file-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090653-01-damar-hamlin-file-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090653-01-damar-hamlin-file-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090653-01-damar-hamlin-file-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090653-01-damar-hamlin-file-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090653-01-damar-hamlin-file-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090653-01-damar-hamlin-file-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090653-01-damar-hamlin-file-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090653-01-damar-hamlin-file-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103090653-01-damar-hamlin-file-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ There wasn't a single bank robbery in Denmark last year ]]>
+</title>
+<description>
+<![CDATA[ The number of bank robberies in Denmark fell to zero last year, as beefed-up security and reduced use of cash in the Nordic country make holdups less lucrative. ]]>
+</description>
+<link>https://www.cnn.com/2023/01/03/business/denmark-bank-robberies/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/2023/01/03/business/denmark-bank-robberies/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 16:50:55 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103110802-danish-kroner-banknotes-file-restricted-012414-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103110802-danish-kroner-banknotes-file-restricted-012414-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103110802-danish-kroner-banknotes-file-restricted-012414-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103110802-danish-kroner-banknotes-file-restricted-012414-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103110802-danish-kroner-banknotes-file-restricted-012414-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103110802-danish-kroner-banknotes-file-restricted-012414-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103110802-danish-kroner-banknotes-file-restricted-012414-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103110802-danish-kroner-banknotes-file-restricted-012414-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103110802-danish-kroner-banknotes-file-restricted-012414-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103110802-danish-kroner-banknotes-file-restricted-012414-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103110802-danish-kroner-banknotes-file-restricted-012414-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103110802-danish-kroner-banknotes-file-restricted-012414-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103110802-danish-kroner-banknotes-file-restricted-012414-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103110802-danish-kroner-banknotes-file-restricted-012414-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103110802-danish-kroner-banknotes-file-restricted-012414-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103110802-danish-kroner-banknotes-file-restricted-012414-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103110802-danish-kroner-banknotes-file-restricted-012414-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103110802-danish-kroner-banknotes-file-restricted-012414-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103110802-danish-kroner-banknotes-file-restricted-012414-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103110802-danish-kroner-banknotes-file-restricted-012414-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103110802-danish-kroner-banknotes-file-restricted-012414-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103110802-danish-kroner-banknotes-file-restricted-012414-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ Al Roker set to return to 'Today' after hospitalizations ]]>
+</title>
+<description>
+<![CDATA[ Al Roker's colleagues shared the good news Tuesday that the beloved weatherman will be back on the air soon. ]]>
+</description>
+<link>https://www.cnn.com/2023/01/03/entertainment/al-roker-today-return/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/2023/01/03/entertainment/al-roker-today-return/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 16:45:25 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111854-al-roker-file-041422-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111854-al-roker-file-041422-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111854-al-roker-file-041422-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111854-al-roker-file-041422-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111854-al-roker-file-041422-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111854-al-roker-file-041422-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111854-al-roker-file-041422-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111854-al-roker-file-041422-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111854-al-roker-file-041422-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111854-al-roker-file-041422-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111854-al-roker-file-041422-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111854-al-roker-file-041422-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111854-al-roker-file-041422-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111854-al-roker-file-041422-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111854-al-roker-file-041422-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111854-al-roker-file-041422-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111854-al-roker-file-041422-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111854-al-roker-file-041422-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111854-al-roker-file-041422-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111854-al-roker-file-041422-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111854-al-roker-file-041422-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103111854-al-roker-file-041422-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ McCarthy faces make-or-break moment in vote to elect House speaker ]]>
+</title>
+<description>
+<![CDATA[ House GOP leader Kevin McCarthy faces a make-or-break moment on Tuesday, as he seeks to lock down the support necessary to become the next speaker in a vote that could turn into a chaotic and contentious once-in-a-century floor fight. ]]>
+</description>
+<link>https://www.cnn.com/2023/01/03/politics/house-speaker-vote-mccarthy/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/2023/01/03/politics/house-speaker-vote-mccarthy/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 16:42:39 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113808-05-kevin-mccarthy-0103-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113808-05-kevin-mccarthy-0103-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113808-05-kevin-mccarthy-0103-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113808-05-kevin-mccarthy-0103-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113808-05-kevin-mccarthy-0103-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113808-05-kevin-mccarthy-0103-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113808-05-kevin-mccarthy-0103-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113808-05-kevin-mccarthy-0103-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113808-05-kevin-mccarthy-0103-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113808-05-kevin-mccarthy-0103-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103113808-05-kevin-mccarthy-0103-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102151142-02-kevin-mccarthy-1202-file-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102151142-02-kevin-mccarthy-1202-file-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102151142-02-kevin-mccarthy-1202-file-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102151142-02-kevin-mccarthy-1202-file-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102151142-02-kevin-mccarthy-1202-file-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102151142-02-kevin-mccarthy-1202-file-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102151142-02-kevin-mccarthy-1202-file-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102151142-02-kevin-mccarthy-1202-file-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102151142-02-kevin-mccarthy-1202-file-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102151142-02-kevin-mccarthy-1202-file-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102151142-02-kevin-mccarthy-1202-file-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ Has your boss recently given you a nice raise so you'll stay? Are you an employer paying workers more not to quit? ]]>
+</title>
+<description>
+<![CDATA[ Workers who stick with the same employers are enjoying the biggest raises in nearly a quarter century. ]]>
+</description>
+<link>https://www.cnn.com/2023/01/02/business/pay-raises-retain-workers/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/2023/01/02/business/pay-raises-retain-workers/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 16:40:46 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102140656-employee-raise-stock-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102140656-employee-raise-stock-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102140656-employee-raise-stock-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102140656-employee-raise-stock-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102140656-employee-raise-stock-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102140656-employee-raise-stock-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102140656-employee-raise-stock-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102140656-employee-raise-stock-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102140656-employee-raise-stock-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102140656-employee-raise-stock-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102140656-employee-raise-stock-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102140656-employee-raise-stock-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102140656-employee-raise-stock-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102140656-employee-raise-stock-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102140656-employee-raise-stock-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102140656-employee-raise-stock-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102140656-employee-raise-stock-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102140656-employee-raise-stock-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102140656-employee-raise-stock-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102140656-employee-raise-stock-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102140656-employee-raise-stock-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102140656-employee-raise-stock-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ NFL star Damar Hamlin in critical condition after cardiac arrest ]]>
+</title>
+<description>
+<![CDATA[ Buffalo Bills player Damar Hamlin is in critical condition after suffering cardiac arrest when he collapsed on the field during a game against the Cincinnati Bengals, his team said. Follow live updates here. ]]>
+</description>
+<link>https://www.cnn.com/us/live-news/damar-hamlin-collapse-bills-bengals-game-intl-hnk/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/us/live-news/damar-hamlin-collapse-bills-bengals-game-intl-hnk/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 16:32:43 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102185244-damar-hamlin-on-field-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102185244-damar-hamlin-on-field-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102185244-damar-hamlin-on-field-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102185244-damar-hamlin-on-field-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102185244-damar-hamlin-on-field-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102185244-damar-hamlin-on-field-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102185244-damar-hamlin-on-field-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102185244-damar-hamlin-on-field-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102185244-damar-hamlin-on-field-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102185244-damar-hamlin-on-field-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102185244-damar-hamlin-on-field-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ Skip Bayless apologizes for tweet after Damar Hamlin's collapse ]]>
+</title>
+<description>
+<![CDATA[ Fox Sports host Skip Bayless apologized for hosting his FS1 show "Undisputed" Tuesday morning following a controversial tweet about a football player who suffered a medical emergency during a game. ]]>
+</description>
+<link>https://www.cnn.com/2023/01/03/media/skip-bayless-damar-hamlin-tweet/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/2023/01/03/media/skip-bayless-damar-hamlin-tweet/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 16:29:10 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101520-01-skip-bayless-file-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101520-01-skip-bayless-file-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101520-01-skip-bayless-file-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101520-01-skip-bayless-file-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101520-01-skip-bayless-file-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101520-01-skip-bayless-file-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101520-01-skip-bayless-file-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101520-01-skip-bayless-file-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101520-01-skip-bayless-file-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101520-01-skip-bayless-file-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101520-01-skip-bayless-file-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ Montgomery, Alabama, airport worker died after being 'ingested' into aircraft engine, NTSB says ]]>
+</title>
+<description>
+<![CDATA[ A worker who died in an accident at the Montgomery Regional Airport Saturday "was ingested into the engine" of an aircraft, according to a statement from the National Transportation Safety Board. ]]>
+</description>
+<link>https://www.cnn.com/2023/01/03/us/montgomery-airport-worker-death/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/2023/01/03/us/montgomery-airport-worker-death/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 16:25:27 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221231195319-01-montgomery-airport-incident-1231-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221231195319-01-montgomery-airport-incident-1231-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221231195319-01-montgomery-airport-incident-1231-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221231195319-01-montgomery-airport-incident-1231-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221231195319-01-montgomery-airport-incident-1231-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221231195319-01-montgomery-airport-incident-1231-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221231195319-01-montgomery-airport-incident-1231-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221231195319-01-montgomery-airport-incident-1231-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221231195319-01-montgomery-airport-incident-1231-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221231195319-01-montgomery-airport-incident-1231-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221231195319-01-montgomery-airport-incident-1231-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221231195319-01-montgomery-airport-incident-1231-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221231195319-01-montgomery-airport-incident-1231-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221231195319-01-montgomery-airport-incident-1231-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221231195319-01-montgomery-airport-incident-1231-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221231195319-01-montgomery-airport-incident-1231-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221231195319-01-montgomery-airport-incident-1231-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221231195319-01-montgomery-airport-incident-1231-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221231195319-01-montgomery-airport-incident-1231-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221231195319-01-montgomery-airport-incident-1231-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221231195319-01-montgomery-airport-incident-1231-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221231195319-01-montgomery-airport-incident-1231-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ A Pennsylvania police chief was killed after he 'ran towards danger' pursuing a suspect ]]>
+</title>
+<description>
+<![CDATA[ Justin McIntire, the police chief in Brackenridge, was shot in the head while chasing a man wanted by Pennsylvania State Police, officials said. ]]>
+</description>
+<link>https://www.cnn.com/2023/01/03/us/brackenridge-pennsylvania-police-chief-killed/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/2023/01/03/us/brackenridge-pennsylvania-police-chief-killed/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 16:24:31 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103091828-01-brackenridge-pa-police-officer-shot-killed-0103-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103091828-01-brackenridge-pa-police-officer-shot-killed-0103-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103091828-01-brackenridge-pa-police-officer-shot-killed-0103-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103091828-01-brackenridge-pa-police-officer-shot-killed-0103-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103091828-01-brackenridge-pa-police-officer-shot-killed-0103-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103091828-01-brackenridge-pa-police-officer-shot-killed-0103-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103091828-01-brackenridge-pa-police-officer-shot-killed-0103-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103091828-01-brackenridge-pa-police-officer-shot-killed-0103-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103091828-01-brackenridge-pa-police-officer-shot-killed-0103-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103091828-01-brackenridge-pa-police-officer-shot-killed-0103-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103091828-01-brackenridge-pa-police-officer-shot-killed-0103-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103094149-officer-justin-mcintire-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103094149-officer-justin-mcintire-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103094149-officer-justin-mcintire-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103094149-officer-justin-mcintire-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103094149-officer-justin-mcintire-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103094149-officer-justin-mcintire-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103094149-officer-justin-mcintire-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103094149-officer-justin-mcintire-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103094149-officer-justin-mcintire-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103094149-officer-justin-mcintire-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103094149-officer-justin-mcintire-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103091828-01-brackenridge-pa-police-officer-shot-killed-0103-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103091828-01-brackenridge-pa-police-officer-shot-killed-0103-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103091828-01-brackenridge-pa-police-officer-shot-killed-0103-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103091828-01-brackenridge-pa-police-officer-shot-killed-0103-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103091828-01-brackenridge-pa-police-officer-shot-killed-0103-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103091828-01-brackenridge-pa-police-officer-shot-killed-0103-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103091828-01-brackenridge-pa-police-officer-shot-killed-0103-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103091828-01-brackenridge-pa-police-officer-shot-killed-0103-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103091828-01-brackenridge-pa-police-officer-shot-killed-0103-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103091828-01-brackenridge-pa-police-officer-shot-killed-0103-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103091828-01-brackenridge-pa-police-officer-shot-killed-0103-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ Jeremy Renner is in ICU recovering from 2 surgeries after being injured in snow plowing incident ]]>
+</title>
+<description>
+<![CDATA[ "Hawkeye" actor Jeremy Renner is recovering from surgery after suffering "blunt chest trauma and orthopedic injuries" in a New Year's Day snow plowing accident in Nevada, a spokesperson for the actor said. ]]>
+</description>
+<link>https://www.cnn.com/2023/01/03/entertainment/jeremy-renner-snow-plow-hospital-tuesday/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/2023/01/03/entertainment/jeremy-renner-snow-plow-hospital-tuesday/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 16:19:11 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103141322-file-jeremy-renner-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103141322-file-jeremy-renner-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103141322-file-jeremy-renner-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103141322-file-jeremy-renner-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103141322-file-jeremy-renner-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103141322-file-jeremy-renner-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103141322-file-jeremy-renner-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103141322-file-jeremy-renner-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103141322-file-jeremy-renner-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103141322-file-jeremy-renner-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103141322-file-jeremy-renner-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ Influx of Cuban migrants shuts down national park in Florida ]]>
+</title>
+<description>
+<![CDATA[ Dry Tortugas National Park in the Florida Keys is temporarily closed to the public due to an influx of migrants from Cuba. ]]>
+</description>
+<link>https://www.cnn.com/travel/article/cuban-migrants-dry-tortugas-national-park/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/travel/article/cuban-migrants-dry-tortugas-national-park/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 16:11:49 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101446-dry-tortugas-national-park-closure-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101446-dry-tortugas-national-park-closure-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101446-dry-tortugas-national-park-closure-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101446-dry-tortugas-national-park-closure-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101446-dry-tortugas-national-park-closure-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101446-dry-tortugas-national-park-closure-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101446-dry-tortugas-national-park-closure-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101446-dry-tortugas-national-park-closure-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101446-dry-tortugas-national-park-closure-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101446-dry-tortugas-national-park-closure-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101446-dry-tortugas-national-park-closure-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101446-dry-tortugas-national-park-closure-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101446-dry-tortugas-national-park-closure-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101446-dry-tortugas-national-park-closure-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101446-dry-tortugas-national-park-closure-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101446-dry-tortugas-national-park-closure-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101446-dry-tortugas-national-park-closure-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101446-dry-tortugas-national-park-closure-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101446-dry-tortugas-national-park-closure-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101446-dry-tortugas-national-park-closure-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101446-dry-tortugas-national-park-closure-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103101446-dry-tortugas-national-park-closure-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ Kate Bosworth wrote a letter to her younger self for her 40th birthday ]]>
+</title>
+<description>
+<![CDATA[ Kate Bosworth shared a letter she wrote to her younger self for her 40th birthday. ]]>
+</description>
+<link>https://www.cnn.com/2023/01/03/entertainment/kate-bosworth-40th-birthday/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/2023/01/03/entertainment/kate-bosworth-40th-birthday/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 16:07:18 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103154155-kate-bosworth-file-050322-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103154155-kate-bosworth-file-050322-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103154155-kate-bosworth-file-050322-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103154155-kate-bosworth-file-050322-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103154155-kate-bosworth-file-050322-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103154155-kate-bosworth-file-050322-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103154155-kate-bosworth-file-050322-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103154155-kate-bosworth-file-050322-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103154155-kate-bosworth-file-050322-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103154155-kate-bosworth-file-050322-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103154155-kate-bosworth-file-050322-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103154155-kate-bosworth-file-050322-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103154155-kate-bosworth-file-050322-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103154155-kate-bosworth-file-050322-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103154155-kate-bosworth-file-050322-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103154155-kate-bosworth-file-050322-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103154155-kate-bosworth-file-050322-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103154155-kate-bosworth-file-050322-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103154155-kate-bosworth-file-050322-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103154155-kate-bosworth-file-050322-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103154155-kate-bosworth-file-050322-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103154155-kate-bosworth-file-050322-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ France's César film awards ban nominees under investigation for sexual violence from ceremony ]]>
+</title>
+<description>
+<![CDATA[ France's equivalent of the Oscars -- the Césars ​-- says it is banning anyone currently under investigation for acts of violence, "especially those of a sexual nature," from attending its awards ceremony next month "out of respect for any possible victims." ]]>
+</description>
+<link>https://www.cnn.com/2023/01/03/entertainment/cesar-awards-ban-attendance-violence-intl-scli/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/2023/01/03/entertainment/cesar-awards-ban-attendance-violence-intl-scli/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 15:50:10 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100009-02-cesar-awards-ban-file-022522-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100009-02-cesar-awards-ban-file-022522-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100009-02-cesar-awards-ban-file-022522-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100009-02-cesar-awards-ban-file-022522-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100009-02-cesar-awards-ban-file-022522-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100009-02-cesar-awards-ban-file-022522-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100009-02-cesar-awards-ban-file-022522-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100009-02-cesar-awards-ban-file-022522-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100009-02-cesar-awards-ban-file-022522-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100009-02-cesar-awards-ban-file-022522-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100009-02-cesar-awards-ban-file-022522-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100035-03-cesar-awards-ban-file-022522-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100035-03-cesar-awards-ban-file-022522-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100035-03-cesar-awards-ban-file-022522-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100035-03-cesar-awards-ban-file-022522-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100035-03-cesar-awards-ban-file-022522-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100035-03-cesar-awards-ban-file-022522-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100035-03-cesar-awards-ban-file-022522-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100035-03-cesar-awards-ban-file-022522-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100035-03-cesar-awards-ban-file-022522-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100035-03-cesar-awards-ban-file-022522-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100035-03-cesar-awards-ban-file-022522-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100009-02-cesar-awards-ban-file-022522-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100009-02-cesar-awards-ban-file-022522-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100009-02-cesar-awards-ban-file-022522-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100009-02-cesar-awards-ban-file-022522-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100009-02-cesar-awards-ban-file-022522-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100009-02-cesar-awards-ban-file-022522-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100009-02-cesar-awards-ban-file-022522-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100009-02-cesar-awards-ban-file-022522-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100009-02-cesar-awards-ban-file-022522-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100009-02-cesar-awards-ban-file-022522-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103100009-02-cesar-awards-ban-file-022522-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ 'Surviving R.Kelly': Final installment examines trial and more details ]]>
+</title>
+<description>
+<![CDATA[ "Surviving R. Kelly" raised awareness of the abuse allegations against the singer who is now serving time. On Monday night, the final installment of the docuseries began airing on Lifetime. ]]>
+</description>
+<link>https://www.cnn.com/2023/01/03/entertainment/surviving-r-kelly-new-chapter/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/2023/01/03/entertainment/surviving-r-kelly-new-chapter/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 15:49:37 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145103-r-kelly-court-file-050719-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145103-r-kelly-court-file-050719-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145103-r-kelly-court-file-050719-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145103-r-kelly-court-file-050719-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145103-r-kelly-court-file-050719-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145103-r-kelly-court-file-050719-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145103-r-kelly-court-file-050719-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145103-r-kelly-court-file-050719-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145103-r-kelly-court-file-050719-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145103-r-kelly-court-file-050719-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145103-r-kelly-court-file-050719-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145103-r-kelly-court-file-050719-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145103-r-kelly-court-file-050719-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145103-r-kelly-court-file-050719-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145103-r-kelly-court-file-050719-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145103-r-kelly-court-file-050719-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145103-r-kelly-court-file-050719-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145103-r-kelly-court-file-050719-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145103-r-kelly-court-file-050719-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145103-r-kelly-court-file-050719-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145103-r-kelly-court-file-050719-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145103-r-kelly-court-file-050719-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ Funeral procession for Pelé begins after thousands, including Brazil's president Lula da Silva, visited 24-hour wake ]]>
+</title>
+<description>
+<![CDATA[ A funeral procession which will take legendary footballer Pelé to his final resting place has begun Tuesday. ]]>
+</description>
+<link>https://www.cnn.com/2023/01/03/football/pele-wake-tuesday-santos-lula-spt-intl/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/2023/01/03/football/pele-wake-tuesday-santos-lula-spt-intl/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 15:48:39 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102080830-03-pele-wake-0102-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102080830-03-pele-wake-0102-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102080830-03-pele-wake-0102-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102080830-03-pele-wake-0102-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102080830-03-pele-wake-0102-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102080830-03-pele-wake-0102-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102080830-03-pele-wake-0102-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102080830-03-pele-wake-0102-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102080830-03-pele-wake-0102-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102080830-03-pele-wake-0102-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102080830-03-pele-wake-0102-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145819-pele-funeral-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145819-pele-funeral-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145819-pele-funeral-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145819-pele-funeral-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145819-pele-funeral-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145819-pele-funeral-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145819-pele-funeral-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145819-pele-funeral-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145819-pele-funeral-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145819-pele-funeral-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103145819-pele-funeral-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103074154-01-pele-wake-santos-0103-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103074154-01-pele-wake-santos-0103-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103074154-01-pele-wake-santos-0103-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103074154-01-pele-wake-santos-0103-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103074154-01-pele-wake-santos-0103-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103074154-01-pele-wake-santos-0103-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103074154-01-pele-wake-santos-0103-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103074154-01-pele-wake-santos-0103-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103074154-01-pele-wake-santos-0103-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103074154-01-pele-wake-santos-0103-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103074154-01-pele-wake-santos-0103-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ Brazilian authorities intend to revive fraud case against George Santos ]]>
+</title>
+<description>
+<![CDATA[ Law enforcement officials in Brazil will reinstate fraud charges against Rep.-elect George Santos, the Rio de Janeiro prosecutor's office tells CNN, as the New York Republican officially assumes his role in the US House Tuesday under a cloud of suspicion over his dubious resume. ]]>
+</description>
+<link>https://www.cnn.com/2023/01/02/politics/george-santos-brazil-fraud-case/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/2023/01/02/politics/george-santos-brazil-fraud-case/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 15:47:15 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221227093826-george-santos-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221227093826-george-santos-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221227093826-george-santos-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221227093826-george-santos-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221227093826-george-santos-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221227093826-george-santos-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221227093826-george-santos-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221227093826-george-santos-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221227093826-george-santos-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221227093826-george-santos-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221227093826-george-santos-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103103201-01-george-santos-0103-screengrab-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103103201-01-george-santos-0103-screengrab-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103103201-01-george-santos-0103-screengrab-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103103201-01-george-santos-0103-screengrab-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103103201-01-george-santos-0103-screengrab-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103103201-01-george-santos-0103-screengrab-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103103201-01-george-santos-0103-screengrab-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103103201-01-george-santos-0103-screengrab-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103103201-01-george-santos-0103-screengrab-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103103201-01-george-santos-0103-screengrab-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230103103201-01-george-santos-0103-screengrab-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221227093826-george-santos-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221227093826-george-santos-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221227093826-george-santos-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221227093826-george-santos-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221227093826-george-santos-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221227093826-george-santos-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221227093826-george-santos-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221227093826-george-santos-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221227093826-george-santos-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221227093826-george-santos-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221227093826-george-santos-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+<item>
+<title>
+<![CDATA[ 'Yellowstone' Season 5 will return this summer ]]>
+</title>
+<description>
+<![CDATA[ "Yellowstone" viewers will have to wait until summer to see the conclusion of Season 5. ]]>
+</description>
+<link>https://www.cnn.com/2023/01/02/entertainment/yellowstone-new-season-5/index.html</link>
+<guid isPermaLink="true">https://www.cnn.com/2023/01/02/entertainment/yellowstone-new-season-5/index.html</guid>
+<pubDate>Tue, 03 Jan 2023 15:30:05 GMT</pubDate>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221111155035-01-yellowstone-season-5-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221111155035-01-yellowstone-season-5-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221111155035-01-yellowstone-season-5-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221111155035-01-yellowstone-season-5-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221111155035-01-yellowstone-season-5-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221111155035-01-yellowstone-season-5-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221111155035-01-yellowstone-season-5-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221111155035-01-yellowstone-season-5-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221111155035-01-yellowstone-season-5-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221111155035-01-yellowstone-season-5-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/221111155035-01-yellowstone-season-5-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+<media:group>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102105729-01-yellowstone-s5-super-169.jpg" height="619" width="1100" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102105729-01-yellowstone-s5-large-11.jpg" height="300" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102105729-01-yellowstone-s5-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102105729-01-yellowstone-s5-video-synd-2.jpg" height="480" width="640" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102105729-01-yellowstone-s5-live-video.jpg" height="324" width="576" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102105729-01-yellowstone-s5-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102105729-01-yellowstone-s5-vertical-gallery.jpg" height="360" width="270" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102105729-01-yellowstone-s5-story-body.jpg" height="169" width="300" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102105729-01-yellowstone-s5-t1-main.jpg" height="250" width="250" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102105729-01-yellowstone-s5-assign.jpg" height="186" width="248" type="image/jpeg"/>
+<media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/230102105729-01-yellowstone-s5-hp-video.jpg" height="144" width="256" type="image/jpeg"/>
+</media:group>
+</item>
+</channel>
+</rss>
